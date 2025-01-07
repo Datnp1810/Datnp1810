@@ -19,7 +19,6 @@
 <!-- GitHub Stats Section -->
 <h2 class="text-center my-4">🔥 GitHub Stats 🔥</h2>
 
-
 <!-- GitHub Stats -->
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
   <!-- GitHub Stats -->
@@ -37,9 +36,7 @@
   </a>
 </div>
 
-
 </div>
-
 
 </div>
 
@@ -71,12 +68,9 @@
     </li>
     <li>
       <strong><i class="fas fa-envelope"></i>  </strong>
-      <a href="mailto:nguyen.hoang.ien.544348@gmail.com">dangne@gmail.com</a>
+      <a href="mailto:nguyen.hoang.ien.544348@gmail.com">nguyendangne@gmail.com</a>
     </li>
   </ul>
 </div>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
-
-
-
