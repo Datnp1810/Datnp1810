@@ -64,7 +64,7 @@
     </li>
     <li>
       <strong><i class="fas fa-phone"></i>  </strong>
-      <a href="tel:0862209606" target="_blank">0862209607</a>
+      <a href="tel:0862209606" target="_blank">0886536027</a>
     </li>
     <li>
       <strong><i class="fas fa-envelope"></i>  </strong>
